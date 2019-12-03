@@ -1,5 +1,5 @@
 'use strict';
 
-let name = "Maksim";
+let name = 'Maksim';
 
 module.exports = { name };
