@@ -1,5 +1,6 @@
 'use strict';
 
-const hello = null;
+const hello = (name) {alert('Hi, ' +name)};
+hello();
 
 module.exports = { hello };
